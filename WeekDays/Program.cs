@@ -16,7 +16,7 @@ namespace WeekDays
         {
             /*
             weekDays Choice1 = weekDays.Monday;
-            weekDays Choice2 = weekDays.Tuesday;
+            weekDays Choice2 = weekDays.Tuesday; 
             weekDays Choice3 = weekDays.Wednesday;
             weekDays Choice4 = weekDays.Thursday;
             weekDays Choice5 = weekDays.Friday;
